@@ -1,3 +1,3 @@
-Instale o npm com: npm install,
-depois de instalar o node_modules: amplify init,
-Após instalar o amplify, rode com npm start.
+## Instale o npm com: npm install, <br/>
+## Depois de instalar o node_modules: amplify init, <br/>
+## Após instalar o amplify, rode com npm start.
